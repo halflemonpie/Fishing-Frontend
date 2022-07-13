@@ -1,0 +1,677 @@
+[
+    {
+        "Species Name": "Crimson Jobfish",
+        "Scientific Name": "Pristipomoides filamentosus",
+        "NOAA Fisheries Region": "Pacific Islands",
+        "Population": "The population level is unknown, but the stock is contained in 5 bottomfish complexes whose status ranges from overfished to not overfished to unknown.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Pink_snapper_NB_W_0.png",
+            "alt": "Pink snapper",
+            "title": "Pink snapper"
+        },
+        "Physical Description": "<ul>\n<li>Crimson jobfish have skin that is slightly brown with some brighter colors when caught over hard bottoms.</li>\n<li>Their caudal fin has an orange edge.</li>\n<li>Pectoral fins are brownish or yellow.</li>\n<li>The iris is typically yellow.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Crimson jobfish reach sexual maturity around 1.8 years of age.</li>\n<li>Spawning occurs between June and December with a peak in August.</li>\n<li>Large fish reach about 20 lb and 3 feet long.</li>\n<li>They feed on shrimps, squids, and small fishes.</li>\n</ul>\n",
+        "Taste": "<p>Crimson jobfish has a delicate flavor.</p>\n",
+        "Texture": "<p>Crimson jobfish has&nbsp;a firm texture and can be prepared in a variety of ways from steaming smaller-sized fish to fillets for sashimi.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/4_9.jpg",
+                "alt": "Crimson jobfish on measuring board.  Photo credit: Pacific Islands Fisheries Group",
+                "title": "Crimson jobfish on measuring board.  Photo credit: Pacific Islands Fisheries Group"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2_7.jpg",
+                "alt": "Crimson jobfish aboard fishing vessel.  Photo credit: Pacific Islands Fisheries Group",
+                "title": "Crimson jobfish aboard fishing vessel.  Photo credit: Pacific Islands Fisheries Group"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1_10.jpg",
+                "alt": "Fishing for crimson jobfish.  Photo credit: Pacific Islands Fisheries Group",
+                "title": "Fishing for crimson jobfish.  Photo credit: Pacific Islands Fisheries Group"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/iStock-496376114_2MB_0.jpg",
+                "alt": "Pan-seared crispy crimson jobfish with kiawe smoked chili pepper honey. Photo credit: iStock",
+                "title": "Pan-seared crispy crimson jobfish with kiawe smoked chili pepper honey. Photo credit: iStock"
+            }
+        ]
+    },
+    {
+        "Species Name": "White Hake",
+        "Scientific Name": "Urophycis tenuis",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": "Significantly below target population level. A rebuilding plan is in place.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Hake_White_NB_W_0.png",
+            "alt": "Illustration of white hake. Credit: Jack Hornady.",
+            "title": ""
+        },
+        "Physical Description": "<ul>\n<li>White hake have a large mouth that extends back below their eyes.</li>\n<li>White hake have one anal fin and two dorsal fins. The first dorsal fin is tall and triangular, and the second is lower, rounded, and extends almost to the fish’s tail.</li>\n<li>The third fin ray on the first (triangular) dorsal fin is elongated and extends much higher than the rest of the fin.</li>\n<li>White hake are a member of the cod order and have a barbel (whisker) on their chin.</li>\n<li>White hake vary in color; most adults range from purplish-brown to golden-brown on their back and sides, and they have a yellowish-white belly speckled with small black spots.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>White hake can grow up to 53 inches and weigh up to 49 pounds.</li>\n<li>White hake eggs are buoyant, and larval and early juvenile fish live higher in the water column than adult fish.</li>\n<li>White hake settle to the bottom when they are about 2 months old.</li>\n<li>Adult white hake typically prefer deeper water than juveniles.</li>\n<li>White hake move inshore to shallower waters in the summer and move offshore to deeper waters during the winter.</li>\n<li>Male white hake are usually smaller than females.</li>\n<li>Adult white hake primarily prey on other bottom-dwelling organisms, such as squid, crustaceans, and small bony fish.</li>\n</ul>\n",
+        "Taste": "<p>White hake has a mild, almost sweet&nbsp;taste.</p>\n",
+        "Texture": "<p>White hake has a soft, delicate texture that does not stand up well to freezing.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/white%20hake_Calvin%20Alexander_1.jpg",
+                "alt": "White hake in sampling basket aboard research vessel",
+                "title": "White hake in sampling basket. Photo credit: Calvin Alexander"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/white%20hake_Dave%20McElroy.jpg",
+                "alt": "Scientist measuring white hake on research vessel",
+                "title": "White hake on measuring board. Photo credit: Dave McElroy"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/White%20hake%20MD%20Dept%20Natural%20Resources.jpg",
+                "alt": "Recreational angler aboard boat with white hake",
+                "title": "Recreational angler with white hake. Photo credit: MD Dept. of Natural Resources"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/White%20Hake%20Dish%20-%20iStock.jpg",
+                "alt": "White hake dish with tomato sauce",
+                "title": "White hake dish.  Photo credit: iStock"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/White%20Hake_Stephen%20Luk_New%20England%20Aquarium.jpg",
+                "alt": "White hake in a tank at the New England Aquarium",
+                "title": "White hake at New England Aquarium. Photo credit: Stephen Luk"
+            }
+        ]
+    },
+    {
+        "Species Name": "Atlantic Chub Mackerel",
+        "Scientific Name": "Scomber colias",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": " The stock has never been assessed. The population level is unknown but presumed stable.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Atlantic-chub-mackerel-FNL_NB_W.png",
+            "alt": "Illustration of Atlantic chub mackerel",
+            "title": "Atlantic chub mackerel"
+        },
+        "Physical Description": "<ul>\n<li>Atlantic chub mackerel are elongated and streamlined with deeply forked tails.&nbsp;</li>\n<li>They have small spines on the dorsal fin.&nbsp;</li>\n<li>They are silvery in color, with greenish-blue backs. The upper surfaces have dark zigzagging stripes, and the bellies are pale and marked with wavy lines.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Atlantic chub mackerel grow up to 22 inches long and 3.5 pounds.</li>\n<li>They have a life span of up to about 7 years.</li>\n<li>They mainly feed on small crustaceans called copepods and tiny aquatic animals known as wheel animals or rotifers.</li>\n</ul>\n",
+        "Taste": "<p>Rich, pronounced flavor.</p>\n",
+        "Texture": "<p>Soft, flaky, and moist.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Atlantic%20Chub%20Mackerel_Alessandro%20Duci.jpg",
+                "alt": "Atlantic chub mackerel swimming along bottom habitat",
+                "title": "Atlantic chub mackerel.  Photo credit: Alessandro Duci"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Atlantic%20Chub%20Mackerel_Vasco%20Ferreira.jpg",
+                "alt": "A school of Atlantic chub mackerel.  ",
+                "title": "Atlantic chub mackerel.  Photo credit: Vasco Ferreira"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Atlantic%20Chub%20Mackerel%20Lunds%20Fisheries.jpg",
+                "alt": "Atlantic chub mackerel at the fish market.  ",
+                "title": "Atlantic chub mackerel at the fish market.  Photo credit: Lund&#039;s Fisheries"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Atlantic%20Chub%20Mackerel%20Jim%20Hutchinson%20Jr%20Compressed.jpg",
+                "alt": "Recreational angler on a boat with Atlantic chub mackerel",
+                "title": "Recreational angler with Atlantic chub mackerel.  Photo credit Jim Hutchinson, Jr."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Smoked%20mackerel%20-%20istock.jpg",
+                "alt": "Smoked Atlantic chub mackerel atop a bed of greens",
+                "title": "Smoked Atlantic chub mackerel.  Photo credit: iStock"
+            }
+        ]
+    },
+    {
+        "Species Name": "Shortfin Squid",
+        "Scientific Name": "Illex illecebrosus",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": "The population level is unknown. The species has a lifespan of less than one year.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Squid_Illex_NB_W.png",
+            "alt": "shortfin squid",
+            "title": "Shortfin Squid"
+        },
+        "Physical Description": "<ul>\n<li>Female shortfin squid range from 7 to 12 inches in mantle length, while males are 7 to 10.6 inches in mantle length.</li>\n<li>They can regulate their body color, but are primarily orange-colored with a brown stripe that extends along the top side of the mantle.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Shortfin squid live for less than one year. They have a high natural mortality rate, and a long spawning season.</li>\n<li>Females can release multiple egg masses during a single spawning season, but die after they spawn. Spawning can occur year round with seasonal peaks from October to June.</li>\n<li>Shortfin squid have extremely variable birth, growth, and maturity rates. This makes them extremely sensitive to climate-driven changes.&nbsp;</li>\n<li>They grow about one millimeter a day.</li>\n<li>Shortfin squid are visual predators that eat crustaceans, fish, and other squid, including their own species.</li>\n<li>They are food for many fish, including <a href=\"https://www.fishwatch.gov/profiles/western-atlantic-bluefin-tuna\">bluefin tuna</a>, <a href=\"https://www.fishwatch.gov/profiles/silver-hake\">silver hake</a>, <a href=\"https://www.fishwatch.gov/profiles/red-hake\">red hake</a>, <a href=\"https://www.fishwatch.gov/profiles/bluefish\">bluefish</a>, <a href=\"https://www.fishwatch.gov/profiles/monkfish\">goosefish</a>, fourspot flounder, <a href=\"https://www.fishwatch.gov/profiles/atlantic-cod\">Atlantic cod</a>, sea raven, <a href=\"https://www.fishwatch.gov/profiles/atlantic-spiny-dogfish\">spiny dogfish</a>, and <a href=\"https://www.fishwatch.gov/profiles/north-atlantic-swordfish\">swordfish</a>. Seabird predators include shearwaters, gannets, and fulmars.</li>\n<li>Shortfin squid undergo daily vertical migrations between cooler deep water and warmer surface water. They are nearest the seabed during the day, and higher in the water column during the night.</li>\n</ul>\n",
+        "Taste": "<p>Mild, and subtly sweet.</p>\n<p>&nbsp;</p>\n",
+        "Texture": "<p>Firm and meaty.</p>\n",
+        "Image Gallery": null
+    },
+    {
+        "Species Name": "American Lobster",
+        "Scientific Name": "Homarus americanus",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": "Above target population levels in the Gulf of Maine and Georges Bank. Significantly below target levels in Southern New England.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Lobster_American_NB_Web.png",
+            "alt": "American Lobster",
+            "title": "American Lobster"
+        },
+        "Physical Description": "<ul>\n<li>American lobster is a crustacean with a large shrimp-like body and 10 legs, two of which are large, strong claws.</li>\n</ul>\n<ul>\n<li>One claw is a big-toothed crusher claw for pulverizing shells, and the other is a finer-edged ripper claw, resembling a steak knife, for tearing soft flesh.</li>\n</ul>\n<ul>\n<li><a href=\"https://www.greateratlantic.fisheries.noaa.gov/regs/infodocs/lobster_sex_id.pdf\">Male and female lobsters</a> can be distinguished by the first pair of swimmerets (pleopods) on the upper portion of the underside of the tail. The male swimmerets are larger and more rigid. The female swimmerets are softer, smaller, and have rounded edges.</li>\n</ul>\n<ul>\n<li>Live lobsters are not red like those you see in a restaurant or grocery store, after they have been cooked. Most are either olive-green or greenish-brown. Some have orange, reddish, dark green, or black speckles and bluish colors in the joints of their appendages.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>American lobsters have a long life span. It’s difficult to determine their exact age because they shed their hard shell when they molt, leaving no evidence of age. But scientists believe some American lobsters may live to be 100 years old.</li>\n</ul>\n<ul>\n<li>They can weigh up to 44 pounds.</li>\n</ul>\n<ul>\n<li>Lobsters must periodically molt in order to grow, shedding their hard, external skeleton (shell) when they grow too large for it and forming a new one. They eat voraciously after they molt, often devouring their own recently vacated shells. Eating their shell replenishes lost calcium and helps harden their new shell.</li>\n</ul>\n<ul>\n<li>Lobsters molt about 20 to 25 times over a period of 5 to 8 years between the time they hatch and when they are able to reproduce and reach the minimum legal size to be harvested.</li>\n</ul>\n<ul>\n<li>Usually, lobsters mate after the females molt. Males deposit sperm in the soft-shelled females. The female stores the sperm internally for up to a year.</li>\n</ul>\n<ul>\n<li>Females can have 5,000 to more than 100,000 eggs, depending on their size. The eggs are fertilized as females release them on the underside of their tails, where they carry the eggs for 9 to 11 months.</li>\n</ul>\n<ul>\n<li>Egg-bearing females move inshore to hatch their eggs during late spring or early summer.</li>\n</ul>\n<ul>\n<li>The pelagic (free-swimming) larvae molt four times before they resemble adults and settle to the bottom.</li>\n</ul>\n<ul>\n<li>Lobsters are opportunistic feeders, feeding on whatever prey is most available, so their diet varies regionally.</li>\n</ul>\n<ul>\n<li>Larvae and postlarvae are carnivorous and eat zooplankton (tiny floating animals) during their first year.</li>\n</ul>\n<ul>\n<li>Adults are omnivorous, feeding on crabs, mollusks, worms, sea urchins, sea stars, fish, and macroalgae.</li>\n</ul>\n<ul>\n<li>In general, a variety of bottom-dwelling species feed on lobster, including fish, sharks, rays, skates, octopuses, and crabs. Young lobsters are especially vulnerable to predators. Large, hard-shelled lobsters may be immune to predators (except humans).</li>\n</ul>\n",
+        "Taste": "<p>Mild and sweet.</p>\n",
+        "Texture": "<p>The meat is firm and somewhat fibrous. The tail meat is firmer than the meat from the claws.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1.JPG",
+                "alt": "American Lobster",
+                "title": "American Lobster"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2_6.jpg",
+                "alt": "American Lobster",
+                "title": "American Lobster"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/3_5.jpg",
+                "alt": "American Lobster",
+                "title": "American Lobster"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/4_0.png",
+                "alt": "American Lobster",
+                "title": "American Lobster"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/5_3.jpg",
+                "alt": "American Lobster",
+                "title": "American Lobster"
+            }
+        ]
+    },
+    {
+        "Species Name": "Yellowtail Rockfish",
+        "Scientific Name": "Sebastes flavidus",
+        "NOAA Fisheries Region": "West Coast, Alaska",
+        "Population": "The northern Pacific coast stock is above its target population level. ",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Rockfish_Yellowtail_NB_W.png",
+            "alt": "Yellowtail rockfish",
+            "title": "Yellowtail rockfish"
+        },
+        "Physical Description": "<ul>\n<li>Yellowtail rockfish are greyish brown on top and fade to white on the belly.</li>\n<li>Their body has trace yellow spotting.</li>\n<li>Yellowtail tail fins are yellowish green.</li>\n<li>Their other fins have a darker yellowish green coloration.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Yellowtail rockfish mature between three and five years old.</li>\n<li>They can live up to 50 years.</li>\n<li>They grow more than two feet in length.</li>\n<li>Females can produce between 50,000 and 600,000 eggs, depending on the size of the female.</li>\n<li>Yellowtail rockfish have internal fertilization and the females give birth to live young.</li>\n<li>Adults feed on shellfish, such as shrimp, and small forage fish, such as anchovies.</li>\n<li>Yellowtail rockfish are unique in that they can rapidly release gas from their swim bladders.</li>\n<li>When caught at depth the yellowtail rockfish can avoid barotrauma that kills most other species.</li>\n</ul>\n",
+        "Taste": "<p>Very mild, slightly sweet flavor.</p>\n",
+        "Texture": "<p>Very lean with medium to firm texture and medium sized flakes.</p>\n",
+        "Image Gallery": null
+    },
+    {
+        "Species Name": "Bocaccio",
+        "Scientific Name": "Sebastes paucispinis",
+        "NOAA Fisheries Region": "West Coast, Alaska",
+        "Population": "Above target population level.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Bocaccio_NB_W.png",
+            "alt": "Illustration of a Bocaccio rockfish.",
+            "title": "Bocaccio rockfish."
+        },
+        "Physical Description": "<ul>\n<li>Bocaccio can grow up to three feet long and weigh up to 21 pounds.</li>\n<li>They are identifiable based on their long jaw, which extends to or past the eye socket.</li>\n<li>Young bocaccio are light bronze with small brown spots along their sides. As they grow older, they lose their spots and darken.</li>\n<li>Adult bocaccio have backs that are olive, burnt-orange or brown as adults. They have pink and red stomachs.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Bocaccio is a species of rockfish. Rockfishes are unusual among the bony fishes in that fertilization and embryo development is internal and female rockfish give birth to live larval young.</li>\n<li>Like most other species of rockfish, bocaccio are long-lived. Bocaccio mature and begin to reproduce between ages 4 and 7 years old, and they can live to be 50 years old.</li>\n<li>Bocaccio larvae are opportunistic feeders. Early on, larvae mostly eat copepod nauplii and eat some invertebrate eggs. As they grow, larvae start eating copepodites, adult copepods, and euphausiids.</li>\n<li>Within the first year of their lives, bocaccio begin foraging on other young fishes.</li>\n<li>Adult bocaccio mostly eat fish. Their preferred meal is other rockfishes, but they will also eat <a href=\"https://www.fishwatch.gov/profiles/sablefish\">sablefish</a>, anchovies, lantern fish and squid.</li>\n<li>Female bocaccio may spawn one to three times per season. They are highly fecund for rockfish and have been recorded with anywhere from 290 thousand up to 1.9 million eggs in the ovaries at one time.</li>\n<li>In the Southern California Bight, Bocaccio spawn from October to July, peaking in January. Off central and northern California, Bocaccio spawn from January to May and peak in February.</li>\n</ul>\n",
+        "Taste": "<p>Delicate, nutty, sweet flavor.</p>\n",
+        "Texture": "<p>Lean and medium-firm, with a fine flake.</p>\n",
+        "Image Gallery": null
+    },
+    {
+        "Species Name": "Sugar Kelp",
+        "Scientific Name": "Saccharina latissima",
+        "NOAA Fisheries Region": "West Coast, Greater Atlantic, Alaska",
+        "Population": null,
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Kelp_Sugar_NB_W.png",
+            "alt": "",
+            "title": ""
+        },
+        "Physical Description": "<ul>\n<li>Sugar kelp are yellowish or dark-brown and green in color.</li>\n<li>They resemble large lasagna noodles and have a long narrow, undivided blade with a short thin stem.&nbsp;</li>\n<li>The central band of the blade is dimpled while the margins are smoother with a wavy edge. The crinkled blade gives the sugar kelp it’s other common names.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Sugar kelp reach maturity between 3 and 4 years of age.&nbsp;</li>\n<li>Their blade can grow up to 5 meters (16 feet) long and 20 centimeters (7.9 inches) wide.</li>\n<li>Sugar kelp can live for 2-4 years and grow quickly in colder months.</li>\n</ul>\n",
+        "Taste": "<p>Sugar kelp has a savory and slightly sweet flavor. When dried, a white sweet-tasting powder forms on the blade.</p>\n",
+        "Texture": "<p>Crunchy texture.</p>\n",
+        "Image Gallery": {
+            "src": "https://www.fishwatch.gov/sites/default/files/SugarKelp_online.jpg",
+            "alt": "Sugar kelp growing on a long line. ",
+            "title": "Sugar kelp growing on a long line. "
+        }
+    },
+    {
+        "Species Name": "Sablefish",
+        "Scientific Name": "Anoplopoma fimbria",
+        "NOAA Fisheries Region": "West Coast",
+        "Population": null,
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/sablefish.png",
+            "alt": "",
+            "title": ""
+        },
+        "Physical Description": "<ul>\n<li>Sablefish look much like cod. They are often referred to as black cod, even though they are not actually part of the cod family.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Females can grow more than 3 feet in length.</li>\n<li>Females are able to reproduce at 6 ½ years old and more than 2 feet in length.</li>\n<li>Males are able to reproduce at age 5 and 1.9 feet in length.</li>\n<li>Female sablefish usually produce between 60,000 and 200,000 eggs.</li>\n<li>Sablefish can live to be more than 90 years old.</li>\n</ul>\n",
+        "Taste": "<p>Sablefish have high oil content, making them exceptionally flavorful. They are often called butterfish because of their melt-in-your-mouth, oil-rich meat.</p>\n",
+        "Texture": "<p>Soft, velvety texture. Their meat has large, white flakes.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Sablefish%202.png",
+                "alt": "Juvenile sablefish in tanks at the NOAA Manchester Research Station.",
+                "title": "Juvenile sablefish in tanks at the NOAA Manchester Research Station."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/IMG_0291.JPG",
+                "alt": "Sablefish being harvested from a preliminary netpen study at the NOAA Manchester Research Station. Credit: James Hackett.",
+                "title": "Sablefish being harvested from a preliminary netpen study at the NOAA Manchester Research Station. Credit: James Hackett."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Sablefish_broodstock.png",
+                "alt": "Sablefish broodstock from the wild at the NOAA Manchester Research Station.",
+                "title": "Sablefish broodstock from the wild at the NOAA Manchester Research Station."
+            }
+        ]
+    },
+    {
+        "Species Name": "Atlantic Halibut",
+        "Scientific Name": "Hippoglossus hippoglossus",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": "Significantly below target population levels.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/atlantic-halibut-illustration.png",
+            "alt": "Illustration of Atlantic Halibut.",
+            "title": "Illustration of Atlantic Halibut."
+        },
+        "Physical Description": "<ul>\n<li>Atlantic halibut can be distinguished from other right-eyed flounders by their large size, concave caudal fin, large, gaping mouth, and arched lateral line.</li>\n<li>One of the largest fish found in the Gulf of Maine.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Atlantic halibut is the largest species of flatfish in the world.</li>\n<li>Atlantic halibut can reach up to 15 feet in length</li>\n<li>The largest Atlantic halibut recorded was taken off Cape Ann, Massachusetts, and weighed 615 pounds (eviscerated with the head still attached). It likely weighed 700 pounds when it was alive.</li>\n<li>It is a long-lived, late-maturing species that can live up to 50 years.</li>\n<li>Average age at maturity is about 10 years.</li>\n<li>Full grown females average 100 to 150 pounds, while males tend to be smaller.</li>\n<li>Females are batch spawners, producing several batches of eggs each year.</li>\n<li>In Canadian waters, Atlantic halibut spawn from late winter to early spring, while spawning can last through September for fish from Georges Bank to the Grand Banks.</li>\n<li>Halibut food preferences vary by fish size: smaller fish (up to 12 inches in length) feed almost exclusively on invertebrates. The proportion of fish in the diet increases as the fish grow in size until they feed almost exclusively on fishes when they reach approximately 31 inches.</li>\n</ul>\n",
+        "Taste": "<p>Halibut has a very mild, sweet taste.</p>\n",
+        "Texture": "<p>A lean fish with fine-grained, dense meat. When cooked, the meat is firm yet flaky and tender.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1%20-%20atl_halibut_noa.jpg",
+                "alt": "Picture of an Atlantic halibut face and mouth.",
+                "title": "Atlantic halibut face and mouth. Photo credit: NOAA."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2%20-%20nefsc.jpg",
+                "alt": "Picture of Atlantic halibut.",
+                "title": "Atlantic halibut. Photo credit: NOAA."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/3%20-%20halibut2_fullsize.jpg",
+                "alt": "Picture of Atlantic halibut.",
+                "title": "Picture of Atlantic halibut. Photo credit: NOAA."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/rsz_1beer_battered_halibut_square_darren_howe_noaa_federal.png",
+                "alt": "Battered halibut",
+                "title": "Battered halibut"
+            }
+        ]
+    },
+    {
+        "Species Name": "Shortspine Thornyhead",
+        "Scientific Name": "Sebastolobus alascanus",
+        "NOAA Fisheries Region": "West Coast",
+        "Population": "Above target population level on the Pacific Coast.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/shortspine-thornyhead-illustration.png",
+            "alt": "Illustration of shortspine thornyhead.",
+            "title": "Illustration of shortspine thornyhead."
+        },
+        "Physical Description": "<ul>\n<li>Shortspine thornyhead have elongated bodies and large heads.</li>\n<li>They have a strong spiny ridge and 16 dorsal spines.</li>\n<li>They are bright red or orange red in color, and often have white patches on their sides, backs, cheeks and spiny dorsal fin tips when seen underwater.</li>\n<li>Their fins can have black patches and there may be dark spots or speckles on their sides.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Shortspine thornyheads grow slowly and may reach lengths up to 80 centimeters.</li>\n<li>They may live 80 to 100 years.</li>\n<li>Females grow larger than males, and reach maturity around 18 centimeters, or 8 to 10 years of age.</li>\n<li>Shortspine thornyhead spawn pelagic, gelatinous masses.</li>\n<li>They spawn between December and May along the West Coast and between April and May in the Gulf of Alaska.</li>\n<li>Shortspine feed on shrimp, crabs, zooplankton, amphipods, and other benthic invertebrates.</li>\n</ul>\n",
+        "Taste": "<p>Sweet and mild.</p>\n",
+        "Texture": "<p>Firm, coarse flake.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1%20photo-west-coast-region-photo-gallery.jpg",
+                "alt": "Close-up photo of a shortspine thornyhead. (Photo credit: NOAA)",
+                "title": "Close-up photo of a shortspine thornyhead. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2%20basket%20of%20shortspine%20thornyhead.jpg",
+                "alt": "Basket of shortspine thornyhead. (Photo credit: NOAA)",
+                "title": "Basket of shortspine thornyhead. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/3%20graphic%20with%20morphology%20ID_large.jpg",
+                "alt": "Shortspine thornyhead graphic identifying several physical characteristics, including head spines, pelvic and anal fins. (Photo credit: NOAA)",
+                "title": "Shortspine thornyhead graphic identifying several physical characteristics, including head spines, pelvic and anal fins. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/4%20Head-on%20view%20of%20shortspine%20thornyhead.jpg",
+                "alt": "Head-on view of shortspine thornyhead. (Photo credit: NOAA)",
+                "title": "Head-on view of shortspine thornyhead. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/5%20shortspine%20thornyhead%20amongst%20its%20habitat.jpg",
+                "alt": "Shortspine thornyhead rockfish snuggled amongst a sea star, smaller brittle stars, and sea cucumbers with white tentacles on a mixed rocky and mud-covered habitat. (Photo credit: NOAA/OER)",
+                "title": "Shortspine thornyhead rockfish snuggled amongst a sea star, smaller brittle stars, and sea cucumbers with white tentacles on a mixed rocky and mud-covered habitat. (Photo credit: NOAA/OER)"
+            }
+        ]
+    },
+    {
+        "Species Name": "Canary Rockfish",
+        "Scientific Name": "Sebastes pinniger",
+        "NOAA Fisheries Region": "West Coast, Alaska",
+        "Population": "Above target population level on the Pacific Coast.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/canary%20rockfish.png",
+            "alt": "Canary rockfish illustration.",
+            "title": "Canary rockfish illustration."
+        },
+        "Physical Description": "<ul>\n<li>Adult canary rockfish are bright yellow/orange mottling above and gray underneath, three orange stripes across the head, and orange fins.</li>\n<li>Animals less than 14 inches long have dark markings on the posterior part of the spiny dorsal fin.</li>\n<li>Adults have gray along the lateral line.</li>\n<li>The genus name Sebastes is Greek for \"magnificent\" and the species name pinniger is Latin for \"large-finned.\"</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Canary rockfish are large rockfish that reach up to 2.5 feet in length and 10 pounds.</li>\n<li>They can live up to 75 years.</li>\n<li>Approximately 50 percent of adult canary rockfish are mature at 14 inches total length (about 5 to 6 years of age).</li>\n<li>Rockfishes are unusual among the bony fishes in that fertilization and embryo development is internal and female rockfish give birth to live larval young.</li>\n<li>Female can have 260,000 to 1.9 million eggs, considerably more than many other rockfish species.</li>\n<li>Larval rockfish feed on diatoms, dinoflagellates, tintinnids, and cladocerans.</li>\n<li>Juveniles consume copepods and euphausiids of all life stages.</li>\n<li>Adults eat demersal invertebrates and small fishes, including other species of rockfish.</li>\n</ul>\n",
+        "Taste": "<p>Delicate, nutty, sweet flavor.</p>\n",
+        "Texture": "<p>Lean and medium-firm, with a fine flake.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/Canary%20rockfish%20captured%20on%20a%20research%20trawl%20Credit%20NOAA.jpg",
+                "alt": "Canary rockfish caught in a research trawl. (Photo credit: NOAA)",
+                "title": "Canary rockfish caught in a research trawl. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/PHOTO%20-%20canary%20rockfish%20-%2004182016%20-%20NOAA%20-%202240x1068%20-%20LANDSCAPE.jpg",
+                "alt": "Canary rockfish. (Photo credit: NOAA)",
+                "title": "Canary rockfish. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/pinniger.jpg",
+                "alt": "Canary rockfish graphic identifying several physical characteristics, including head spines, lateral line, pelvic and anal fins. (Photo credit: NOAA)",
+                "title": "Canary rockfish graphic identifying several physical characteristics, including head spines, lateral line, pelvic and anal fins. (Photo credit: NOAA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/UCM059680%20from%20FDA%20whole.jpg",
+                "alt": "Canary rockfish specimen of whole fish. (Photo credit: FDA)",
+                "title": "Canary rockfish specimen of whole fish. (Photo credit: FDA)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/UCM059650%20from%20FDA%20filet.jpg",
+                "alt": "Canary rockfish specimen of fish filet. (Photo credit: FDA)",
+                "title": "Canary rockfish specimen of fish filet. (Photo credit: FDA)"
+            }
+        ]
+    },
+    {
+        "Species Name": "Black Grouper",
+        "Scientific Name": "Mycteroperca bonaci",
+        "NOAA Fisheries Region": "Southeast",
+        "Population": "Above target population level in the Gulf of Mexico/South Atlantic.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/black-grouper-illustration.png",
+            "alt": "black grouper illustration",
+            "title": "black grouper illustration"
+        },
+        "Physical Description": "<ul>\n<li>Black grouper have an olive or gray body, with black blotches and brassy spots.</li>\n<li>Their cheeks are gently rounded.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Black grouper grow up to five feet long and can weigh up to 180 pounds.</li>\n<li>They can live up to 30 years old.</li>\n<li>They begin life as a female and some change into males as they grow – usually between two and four feet in length or 11 and 14 years old.</li>\n<li>The overall sex ratio is generally one male for every four females.</li>\n<li>Black grouper are solitary fish until spawning season, May through August, where they aggregate and spawn in huge numbers.</li>\n<li>Eggs are fertilized externally, and float with the currents.</li>\n<li>Young black grouper feed on crustaceans, mostly shrimp.</li>\n<li>Adults feed on other fish and squid.</li>\n<li>Black grouper have large, powerful jaws that they use to ambush their prey.</li>\n<li>They do not have teeth, and instead use their mouth and gills to suck up their prey.</li>\n<li>They also have teeth plates inside their throat that prevent prey from escaping after being swallowed.</li>\n<li>Black grouper take advantage of other species’ reproductive aggregations for feeding.</li>\n<li>Sharks prey upon large black grouper, while other grouper and moray eels prey upon smaller ones.</li>\n</ul>\n",
+        "Taste": "<p>Grouper has a mild but distinct flavor, somewhere between bass and halibut. Gag is sometimes mistakenly referred to as black grouper in the market. The two species are very similar in taste and texture.</p>\n",
+        "Texture": "<p>Firm.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/black_grouper_whsa_sd.jpg",
+                "alt": "Black grouper on display at the Woods Hole Science Aquarium.",
+                "title": "Black grouper on display at the Woods Hole Science Aquarium."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/black%20grouper%20by%20Anik%20Clemens.jpg",
+                "alt": "Black grouper. (Photo credit: Anik Clemens)",
+                "title": "Black grouper. (Photo credit: Anik Clemens)"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/black%20grouper%20by%20Nick%20Farmer.jpg",
+                "alt": "Black Grouper. (Photo credit: Nick Farmer)",
+                "title": "Black Grouper. (Photo credit: Nick Farmer)"
+            }
+        ]
+    },
+    {
+        "Species Name": "Striped Marlin",
+        "Scientific Name": "Kajikia audax",
+        "NOAA Fisheries Region": "West Coast, Pacific Islands",
+        "Population": "Above target population level in the eastern Pacific. Significantly below target population level in the western and central Pacific due to international fishing. Measures to rebuild the stock are in place in U.S. and international waters.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/striped-marlin-illustration.png",
+            "alt": "Striped Marlin",
+            "title": "Striped Marlin"
+        },
+        "Physical Description": "<ul>\n<li>Striped marlin are large, oceanic fish with long, round bills, small teeth, and a tall dorsal fin.</li>\n<li>Their bodies are dark blue-black on the top and fade to a silvery white on the bottom.</li>\n<li>They have rows of blue colored stripes made up of smaller round dots or narrow bands.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Striped marlin are smaller than other marlin species, but can reach a length of 12 feet and weigh more than 450 pounds.</li>\n<li>Spawning occurs in the central Pacific and off central Mexico.</li>\n<li>Juvenile fish move east toward the coast of Mexico, where they are found in high abundance around the tip of the Baja Peninsula.</li>\n<li>Striped marlin are opportunistic feeders of fish including mackerel, sardine, and anchovy. They will also eat invertebrates, including squid.</li>\n<li>Off the coast of southern California, they often feed at the surface on small coastal fish and squid.</li>\n<li>Large pelagic sharks or toothed whales prey on adult marlin.</li>\n</ul>\n",
+        "Taste": "<p>Distinctive flavor similar to but more pronounced than swordfish. It is considered the finest eating of all marlin species.</p>\n",
+        "Texture": "<p>Firm.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/marlin%20david%20itano_from%20SWFSC%20research%20page.PNG",
+                "alt": "Striped marlin near buoy mooring. Photo credit  David Itano.",
+                "title": "Striped marlin near buoy mooring. Photo credit  David Itano."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/obs_striped_marlin1_from%20PIRO%20observer%20page.jpg",
+                "alt": "Striped marlin encountered in the Hawaii and/or American Samoa Longline Observer Programs.",
+                "title": "Striped marlin encountered in the Hawaii and/or American Samoa Longline Observer Programs."
+            }
+        ]
+    },
+    {
+        "Species Name": "Blueline Tilefish",
+        "Scientific Name": "Caulolatilus microps",
+        "NOAA Fisheries Region": "Greater Atlantic, Southeast",
+        "Population": "In the South Atlantic, above target population levels. In the Mid-Atlantic and Gulf of Mexico, the population level is unknown, but presumed stable.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/blueline-tilefish-illustration_0.png",
+            "alt": "Illustration of Blueline Tilefish",
+            "title": "Illustration of Blueline Tilefish"
+        },
+        "Physical Description": "<ul>\n<li>Blueline tilefish get their name from a narrow gold stripe underlined in blue that runs from their snout to the tip of their eye.</li>\n<li>They have a long snout and are a dull olive-gray on the top of their body and white on the bottom.</li>\n<li>They have long, continuous dorsal and anal fins that are more than half the length of their body.</li>\n<li>Unlike <a href=\"https://www.fishwatch.gov/profiles/tilefish\">golden tilefish</a>, they do not have a large adipose flap (crest) on their head.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Blueline tilefish can grow to be 35 inches long and live up to 26 years.</li>\n<li>Males can grow larger than females.</li>\n<li>Female blueline tilefish mature when they are about 3 years old.</li>\n<li>They can spawn year-round, but peak spawning is in May. Spawning primarily occurs at night.</li>\n<li>Females can lay more than 4 million free-floating eggs.</li>\n<li>Blueline tilefish feed primarily on invertebrates that live near the sea floor, such as crabs, shrimp, snails, worms, sea urchins, and small fish.</li>\n<li>Recent genetic studies suggest that the U.S. Atlantic population of blueline tilefish is continuous from the northeastern Gulf of Mexico, around the Florida Keys, and up through the Mid-Atlantic region.</li>\n</ul>\n",
+        "Taste": "<p>Blueline tilefish has a mild sweet flavor, similar to lobster or crab. It is similar in taste to <a href=\"https://www.fishwatch.gov/profiles/tilefish\">golden tilefish</a>. Almost all tilefish is sold fresh.</p>\n",
+        "Texture": "<p>Firm but tender.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1_8.jpg",
+                "alt": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center.",
+                "title": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2_5.jpg",
+                "alt": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center.",
+                "title": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/3_4.jpg",
+                "alt": "Blueline tilefish (Caulolatilus microps) caught during 2004 NEFSC Cooperative Research cruise. Photo credit: Anne Richards, NOAA Northeast Fisheries Science Center.",
+                "title": "Blueline tilefish (Caulolatilus microps) caught during 2004 NEFSC Cooperative Research cruise. Photo credit: Anne Richards, NOAA Northeast Fisheries Science Center."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/4_7.jpg",
+                "alt": "Blueline tilefish (Caulolatilus microps) caught during 2004 NEFSC Cooperative Research cruise. Photo credit: Anne Richards, NOAA Northeast Fisheries Science Center.",
+                "title": "Blueline tilefish (Caulolatilus microps) caught during 2004 NEFSC Cooperative Research cruise. Photo credit: Anne Richards, NOAA Northeast Fisheries Science Center."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/5_2.jpg",
+                "alt": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center.",
+                "title": "Blueline tilefish (Caulolatilus microps). Photo credit: NOAA Northeast Fisheries Science Center."
+            }
+        ]
+    },
+    {
+        "Species Name": "Red Hake",
+        "Scientific Name": "Urophycis chuss",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": "The northern stock is above its target population level. The southern stock is significantly below its target level and fishing rate promotes population growth. A rebuilding plan is being developed for the southern stock.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/red-hake-illustration-formatted.png",
+            "alt": "Red Hake",
+            "title": "Red Hake"
+        },
+        "Physical Description": "<ul>\n<li>Red hake vary in color depending on their environment. Most tend to be a reddish brown to olive-brown color with pale tan spots on their sides and shades of white on their undersides.</li>\n<li>They are a member of the cod family and have a barbel (whisker) on their chin.</li>\n<li>Their dorsal fin is triangular, but their second dorsal and anal fins are long, continuous, and do not attach to the tail fin, much like an eel.</li>\n<li>They have a small head, but a large mouth with many small teeth.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Red hake are a member of the cod family.</li>\n<li>They do not grow as large as white hake and normally reach a maximum size of 50 centimeters (20 inches) and 2 kilograms (4.4 pounds).</li>\n<li>Females are generally larger than males of the same age, and reach a maximum length of 63 centimeters (25 inches) and a weight of 3.6 kilograms (7.9 pounds).</li>\n<li>Although they generally do not live longer than 8 years, red hake have been recorded up to 14 years old.</li>\n<li>Red hake feed primarily on crustaceans such as decapods and rock crabs as well as fish such as <a href=\"https://www.fishwatch.gov/profiles/haddock\">haddock</a>, <a href=\"https://www.fishwatch.gov/profiles/silver-hake\">silver hake</a>, sea robins, sand lance, <a href=\"https://www.fishwatch.gov/profiles/atlantic-mackerel\">mackerel</a>, and small red hake.</li>\n<li>Primary predators of red hake include <a href=\"https://www.fishwatch.gov/profiles/atlantic-spiny-dogfish\">spiny dogfish</a>, <a href=\"https://www.fishwatch.gov/profiles/atlantic-cod\">cod</a>, <a href=\"https://www.fishwatch.gov/profiles/monkfish\">goosefish</a>, and <a href=\"https://www.fishwatch.gov/profiles/silver-hake\">silver hake</a>.</li>\n</ul>\n",
+        "Taste": "<p>Mild and slightly sweet. Hake can be substituted in many dishes calling for pollock or cod.</p>\n",
+        "Texture": "<p>Hakes have softer flesh and are less flaky than other whitefish such as cod, haddock, and pollock.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/red_hake_juvenile_noaa-formatted.jpg",
+                "alt": "Juvenile red hake.",
+                "title": "Juvenile red hake."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/red_hake_minnow_noaa%20teacher%20at%20sea-formatted_0.jpg",
+                "alt": "Red hake minnow.",
+                "title": "Red hake minnow."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/red_hake_noaa%20teacher%20at%20sea-formatted.jpg",
+                "alt": "Red hake with distinctive chin barbel.",
+                "title": "Red hake with distinctive chin barbel."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/silver_hake_top_and_red_hake_bottom_noaa%20teacher%20at%20sea-formatted.jpg",
+                "alt": "Comparing a silver hake (top) and a red hake (bottom).",
+                "title": "Comparing a silver hake (top) and a red hake (bottom)."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/red-hake1_largest-formatted.jpg",
+                "alt": "Red hake.",
+                "title": "Red hake."
+            }
+        ]
+    },
+    {
+        "Species Name": "Atlantic Sharpnose Shark",
+        "Scientific Name": "Rhizoprionodon terraenovae",
+        "NOAA Fisheries Region": "Greater Atlantic, Southeast",
+        "Population": "Above target population levels.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/Atlantic_Sharpnosed_Shark_NB_W_smaller_0.png",
+            "alt": "Atlantic Sharpnose Shark",
+            "title": "Atlantic Sharpnose Shark"
+        },
+        "Physical Description": "<ul>\n<li>Atlantic sharpnose sharks are small for sharks and have a streamlined body.</li>\n<li>They get their name from their long, pointy snout.</li>\n<li>They are several different shades of gray and have a white underside.</li>\n<li>Adults have white spots on their sides and white along the edges of their pectoral fins.</li>\n<li>Young sharks have black on their dorsal (back) and caudal (tail) fin edges.</li>\n<li>The lower and upper jaws of an Atlantic sharpnose shark have 24 or 25 rows of triangular teeth.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Atlantic sharpnose sharks can grow to up to 32 inches in length.</li>\n<li>They grow and mature at different rates in the Atlantic and Gulf of Mexico.</li>\n<li>Females mature at around 2 years old in the Atlantic when they reach approximately 24 inches in length, and at around 1.3 years old in the Gulf of Mexico when they are approximately 25 inches in length.</li>\n<li>Atlantic sharpnose sharks have been observed to live up to 18 years.</li>\n<li>In both the Atlantic and Gulf of Mexico, Atlantic sharpnose sharks mate annually between mid-May and mid-July in inshore waters.</li>\n<li>After mating they migrate offshore to deeper waters.</li>\n<li>The mother feeds the pups through a placental sac and after a gestation period of 10 to 11 months the females return to nearshore areas to give birth in June.</li>\n<li>Litters average approximately four pups in both the Gulf of Mexico and Atlantic.</li>\n<li>Atlantic sharpnose sharks eat small fish, including menhaden, eels, silversides, wrasses, jacks, toadfish, and filefish. They also eat worms, shrimp, crabs, and mollusks.</li>\n<li>Large carnivorous fish, including large sharks, eat Atlantic sharpnose sharks.</li>\n</ul>\n",
+        "Taste": "<p>Reported to be quite tasty.</p>\n",
+        "Texture": null,
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/1_6.jpg",
+                "alt": "Sharpnose shark caught in the Atlantic for research purposes. Photo credit: NOAA Fisheries.",
+                "title": "Sharpnose shark caught in the Atlantic for research purposes. Photo credit: NOAA Fisheries."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/2_reformatted.jpg",
+                "alt": "Sharpnose shark caught in the Atlantic for research purposes. Photo credit: NOAA Fisheries.",
+                "title": "Sharpnose shark caught in the Atlantic for research purposes. Photo credit: NOAA Fisheries."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/3_3.jpg",
+                "alt": "Sharpnose shark caught in the Gulf of Mexico for research purposes. Photo credit: NOAA Fisheries.",
+                "title": "Sharpnose shark caught in the Gulf of Mexico for research purposes. Photo credit: NOAA Fisheries."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/4_6.jpg",
+                "alt": "Teacher-at-sea examining a sharpnose shark caught during a research cruise. Photo credit: NOAA Fisheries.",
+                "title": "Teacher-at-sea examining a sharpnose shark caught during a research cruise. Photo credit: NOAA Fisheries."
+            }
+        ]
+    },
+    {
+        "Species Name": "Pacific Sardine",
+        "Scientific Name": "Sardinops sagax caerulea",
+        "NOAA Fisheries Region": "West Coast",
+        "Population": "Significantly below target population levels. A rebuilding plan is in place.",
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/pacific_sardine.png",
+            "alt": "Pacific sardine illustration.",
+            "title": ""
+        },
+        "Physical Description": "<ul>\n<li>Pacific sardines are small.</li>\n<li>They are blue-green on the back and have white flanks with one to three sets of dark spots along the middle.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Pacific sardines are fast growing and can grow to more than 12 inches long.</li>\n<li>They can live up to 13 years, but usually not past 5.</li>\n<li>They reproduce at age 1 or 2, depending on conditions.</li>\n<li>Pacific sardines spawn multiple times per season.</li>\n<li>Females release eggs that are fertilized externally and hatch in about 3 days.</li>\n<li>Pacific sardines feed on plankton (tiny floating plants and animals).</li>\n<li>They are prey for many fish, marine mammals, and seabirds.</li>\n</ul>\n",
+        "Taste": "<p>When fresh, small sardines have a delicate flavor. Larger sardines have a fuller, oilier flavor, similar to anchovies but milder. If buying fresh, look for sardines with bright eyes, shiny skin, and a mildly fishy aroma. Plan to cook them within a day of purchase.</p>\n",
+        "Texture": "<p>Firm when canned; soft when fresh.</p>\n",
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/01_57.jpg",
+                "alt": "Pacific sardine.",
+                "title": "Pacific sardine."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/02_42.jpg",
+                "alt": "Historic photo of the sardine fishery in California. In the 1940s and 1950s, about 200 vessels participated in the Pacific sardine fishery. Some of these boats are still fishing today.",
+                "title": "Historic photo of the sardine fishery in California. In the 1940s and 1950s, about 200 vessels participated in the Pacific sardine fishery. Some of these boats are still fishing today."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/03_47.jpg",
+                "alt": "Sardine schools (dark patches) around a commercial fishing vessel.",
+                "title": "Sardine schools (dark patches) around a commercial fishing vessel."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/04_39.jpg",
+                "alt": " Adult Pacific sardines caught during NOAA Southwest Fisheries Science Center’s 2006 survey. These sardines were measured and weighed. Scientists also determined their reproductive status and collected otoliths (ear bones) for ageing studies.",
+                "title": " Adult Pacific sardines caught during NOAA Southwest Fisheries Science Center’s 2006 survey. These sardines were measured and weighed. Scientists also determined their reproductive status and collected otoliths (ear bones) for ageing studies."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/05_31.jpg",
+                "alt": "Sardine seafood dish.",
+                "title": ""
+            }
+        ]
+    },
+    {
+        "Species Name": "Pacific Oyster",
+        "Scientific Name": "Crassostrea gigas",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": null,
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/pacific_oyster.png",
+            "alt": "Illustration of a Pacific Oyster",
+            "title": "Pacific Oyster"
+        },
+        "Physical Description": "<ul>\n<li>Can reach up to 10 inches in length.</li>\n<li>The shell is elongated, thick, rough and sometimes sharp. The inside of the shell is white to off/white with purple streaks.</li>\n<li>The shell has a “cupped” shape to it, giving rise to its alternate name “Pacific cupped oyster.”</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Are of the shellfish family. Like mussels, clams and scallops they are bivalve mollusks, and have a hinged shell.</li>\n<li>Adults are sessile – they stay in one place – and inhabit both intertidal and subtidal areas.</li>\n<li>Have fast growth rates and high reproduction rates.</li>\n<li>First mature as males, then later develop female reproductive capabilities.</li>\n<li>Each female can produce between 50 and 200 million eggs during a spawning event.</li>\n</ul>\n",
+        "Taste": "<p>Ranges from sweet to briny.</p>\n",
+        "Texture": null,
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/pacific_oyster_hanging_bags.jpg",
+                "alt": "Shellfish farming techniques include grow-out in bags placed in the tidelands, suspended culture, and “rack and bag” grow-out, among others.",
+                "title": "Shellfish farming techniques include grow-out in bags placed in the tidelands, suspended culture, and “rack and bag” grow-out, among others."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/pacific_oyster_farming_shelton_wa_0.jpg",
+                "alt": "In the Pacific Northwest, the shellfish industry injects an estimated $270 million a year into the region’s economy, bringing jobs to over 3,200 people, primarily in coastal communities.",
+                "title": "In the Pacific Northwest, the shellfish industry injects an estimated $270 million a year into the region’s economy, bringing jobs to over 3,200 people, primarily in coastal communities."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/pacific_oyster_natural_habitat.jpg",
+                "alt": "Rebuilding Olympia oyster populations in Puget Sound, Washington, provides critical habitat and water quality attributes upon which other species depend. Source: Puget Sound Restoration Fund",
+                "title": "Rebuilding Olympia oyster populations in Puget Sound, Washington, provides critical habitat and water quality attributes upon which other species depend. Source: Puget Sound Restoration Fund"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/pacific_oysters_willapabay.jpg",
+                "alt": "Oyster beds generate habitat for eel grass and other plants, as well as a variety of marine life including fish and crabs. Source: Puget Sound Restoration Fund",
+                "title": "Oyster beds generate habitat for eel grass and other plants, as well as a variety of marine life including fish and crabs. Source: Puget Sound Restoration Fund"
+            }
+        ]
+    },
+    {
+        "Species Name": "Hard Clam/Northern Quahog",
+        "Scientific Name": "Mercenaria mercenaria",
+        "NOAA Fisheries Region": "Greater Atlantic",
+        "Population": null,
+        "Species Illustration Photo": {
+            "src": "https://www.fishwatch.gov/sites/default/files/hard_clam_northern_quahog.png",
+            "alt": "Illustration of a Hard Clam, also known as Northern Quahog",
+            "title": "Hard Clam/Northern Quahog"
+        },
+        "Physical Description": "<ul>\n<li>Adult hard clams are just less than 3 inches&nbsp;but can reach up to 5 inches.</li>\n<li>The shell is thick, grey to white in color, and has outer concentric growth rings.</li>\n<li>The inside of the shell is white with violet markings.</li>\n<li>Some hatchery raised clams have dark, zigzag stripes across the shell known as “notata”.</li>\n</ul>\n",
+        "Biology": "<ul>\n<li>Are of the shellfish family. Like oysters, mussels, and scallops they are bivalve mollusks, and have a hinged shell.</li>\n<li>Clams have slow growth rates and can live 12 to 20 years on average&nbsp;and up to 40 years.</li>\n<li>Adults are sessile—they stay in one place—and inhabit both intertidal and subtidal areas.</li>\n<li>Clams burrow into the sediment, leaving only their siphons exposed to feed.</li>\n<li>Hard clams prefer saline water and cannot survive if the salt content is too low.</li>\n<li>Each female can produce between 1 and 5 million eggs during a spawning event.</li>\n</ul>\n",
+        "Taste": "<p>Mild flavor, sweet, and briny.</p>\n",
+        "Texture": null,
+        "Image Gallery": [
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/01_8.jpg",
+                "alt": "Also known as a quahog, round clam, or hard-shell clam, hard clams are native to eastern shores throughout North America.",
+                "title": "Also known as a quahog, round clam, or hard-shell clam, hard clams are native to eastern shores throughout North America."
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/02_6.jpg",
+                "alt": "Clams are raised in hatcheries until planted for grow-out to produce healthy, sustainable seafood. Source: New York Sea Grant",
+                "title": "Clams are raised in hatcheries until planted for grow-out to produce healthy, sustainable seafood. Source: New York Sea Grant"
+            },
+            {
+                "src": "https://www.fishwatch.gov/sites/default/files/03_48.jpg",
+                "alt": "Clam beds on Virginia&#039;s eastern shore. Clam aquaculture provides jobs and maintains activity at working waterfronts. Source: Virginia Sea Grant",
+                "title": "Clam beds on Virginia&#039;s eastern shore. Clam aquaculture provides jobs and maintains activity at working waterfronts. Source: Virginia Sea Grant"
+            }
+        ]
+    }
+]
