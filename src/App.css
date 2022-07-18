@@ -10,11 +10,12 @@ img {
 
 .background {
   display: flex;
+  flex-direction: column;
 }
 
-.circle {
+.mover-container {
   width: 40px;
-  height: 40px;
+  height: 5px;
   background-color: #ddd;
   position: relative;
   overflow: hidden;
@@ -24,9 +25,24 @@ img {
   position: absolute;
   left: 0;
   top: 0;
-  width: 10px;
-  height: 40px;
+  width: 40px;
+  height: 5px;
   border-radius: 20px;
   background-color: tomato;
   /* transition: transform 0.5s linear; */
+}
+
+.detail-page {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  right: 40px;
+  bottom: 40px;
+  border: 1px solid #ccc;
+  background: #fff;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 4px;
+  outline: none;
+  padding: 20px;
 }

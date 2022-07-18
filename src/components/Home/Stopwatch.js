@@ -8,12 +8,11 @@ function MyStopwatch({setFishTime, minutes, seconds, isRunning, start, pause, re
  
 
   return (
-    <div style={{textAlign: 'center'}}>
+    <div hidden style={{textAlign: 'center'}}>
       <h1>react-timer-hook</h1>
       <p>Stopwatch Demo</p>
       <div style={{fontSize: '100px'}}>
         <span>{seconds}</span>
-        {setFishTime(seconds)}
       </div>
       <p>{isRunning ? 'Running' : 'Not running'}</p>
       <button onClick={start}>Start</button>
