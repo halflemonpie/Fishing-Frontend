@@ -2,14 +2,12 @@ import React, { useState, useEffect } from "react";
 import MyStopwatch from "./Stopwatch";
 import { useStopwatch } from "react-timer-hook";
 import ReactModal from "react-modal";
-import axios from "axios";
 import MoverContainer from "./MoverContainer";
 import idle from "../../images/fish_idle.gif";
 import dipping from "../../images/fish_dipping.gif";
 import fail from "../../images/fish_fail.gif";
 import get from "../../images/fish_get.gif";
 import miss from "../../images/fish_miss.gif";
-import FishList from "../FishBook/FishList";
 import { Link } from "react-router-dom";
 
 export default function Fishing({
@@ -61,10 +59,10 @@ export default function Fishing({
     // console.log(`wait time1: ${idleTime}`);
     // console.log(`wait time2: ${dippingTime}`);
     // console.log(`wait time3: ${runAwayTime}`);
-    if (seconds == idleTime && seconds !== 0) {
+    if (seconds === idleTime && seconds !== 0) {
       setImg(dipping);
       setHint("Click Pull Right Now!!!");
-    } else if (seconds == dippingTime && seconds !== 0) {
+    } else if (seconds === dippingTime && seconds !== 0) {
       setImg(idle);
       setHint("Still Waiting.......");
     } else if (seconds >= runAwayTime && seconds !== 0) {
@@ -167,7 +165,7 @@ export default function Fishing({
   };
   // modal
   let modal;
-  if (result == "early") {
+  if (result === "early") {
     modal = (
       <div className="flex flex-col justify-center content-center">
         <h1 className="text-6xl mb-10 text-center">Too early!</h1>
@@ -183,7 +181,7 @@ export default function Fishing({
         </div>
       </div>
     );
-  } else if (result == "late") {
+  } else if (result === "late") {
     modal = (
       <div className="flex flex-col justify-center content-center">
         <h1 className="text-6xl mb-10 text-center">To Late!</h1>
@@ -196,7 +194,7 @@ export default function Fishing({
         </div>
       </div>
     );
-  } else if (result == "fail") {
+  } else if (result === "fail") {
     modal = (
       <div className="flex flex-col justify-center content-center">
         <h1 className="text-6xl mb-10 text-center">Nice Try!</h1>
@@ -212,7 +210,7 @@ export default function Fishing({
         </div>
       </div>
     );
-  } else if (result == "get") {
+  } else if (result === "get") {
     modal = (
       <div className="flex flex-col justify-center content-center">
         <h1 className="text-6xl mb-10 text-center">Congratulation!</h1>

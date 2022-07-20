@@ -1,5 +1,5 @@
-import React, {useState} from 'react';
-import { useStopwatch } from 'react-timer-hook';
+import React from 'react';
+
 
 
 function MyStopwatch({setFishTime, minutes, seconds, isRunning, start, pause, reset}) {
