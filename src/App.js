@@ -1,229 +1,52 @@
 import "./App.css";
-import data from "./new.json";
-import React, { useState, useEffect, useRef } from "react";
-import MyStopwatch from "./components/Home/Stopwatch";
-import { useStopwatch } from "react-timer-hook";
-import ReactModal from "react-modal";
+import React, { useState, useEffect } from "react";
 import axios from "axios";
-import MoverContainer from "./components/Home/MoverContainer";
-import FishList from "./components/FishList";
-import {Route, Routes, Link} from "react-router-dom"
+import 'animate.css';
+import { Route, Routes, Link } from "react-router-dom";
 import Fishing from "./components/Home/Fishing";
-
-
+import FishList from "./components/FishBook/FishList";
 
 // todo:
-// close modal reset
 // refactor
+// detail for my collection
 
 function App() {
-  // state for image
-  const [img, setImg] = useState("idle");
-  // mover show and moving condition
-  const [moving, setMoving] = useState(false);
-  // mover position
-  const [mover, setMover] = useState(0);
-  // moving speed in second, if number is smaller, the mover will move faster
-  const [moverSpeed, SetMoverSpeed] = useState(10);
-
-
-  // setup state for the waiting time
-  const [idleTime, setIdleTime] = useState(0);
-  const [dippingTime, setDippingTime] = useState(0);
-  const [runAwayTime, setRunAwayTime] = useState(0);
-
-  // state for opening model
-  const [modalIsOpen, setModalIsOpen] = useState({
-    resultPage: false,
-    fishListPage: false,
-    fishDetailPage: false
-  });
-  // result to display for modal
-  const [result, setResult] = useState("");
-
-  // state for the timer
-  const { seconds, isRunning, start, pause, reset } = useStopwatch({
-    autoStart: false,
-  });
-
   // data from my backend
-  const [fishData, setFishData] = useState([])
+  const [fishData, setFishData] = useState([]);
+
+  // state for user fish
+  const [userFishList, setUserFishList] = useState([])
+
+  // current fish detail page
+  const [current, setCurrent] = useState(0);
 
   // get data from api
   useEffect(() => {
-    axios.get("http://localhost:8000/fish/").then((res) => {
+    axios.get("https://fishing-game-backend.herokuapp.com/fish/").then((res) => {
       console.log(res.data);
-      setFishData(res.data)
+      setFishData(res.data);
     });
   }, []);
-
-  // check condition to change image
-  useEffect(() => {
-    console.log(`wait time1: ${idleTime}`);
-    console.log(`wait time2: ${dippingTime}`);
-    console.log(`wait time3: ${runAwayTime}`);
-    if (seconds == idleTime && seconds !== 0) {
-      setImg("dipping");
-    } else if (seconds == dippingTime && seconds !== 0) {
-      setImg("idle");
-    } else if (seconds >= runAwayTime && seconds !== 0) {
-      reset();
-    }
-  }, [seconds]);
-
-  // start/reset function
-  const handleWait = () => {
-    setImg("idle");
-    reset();
-    let timer1 = Math.floor(Math.random() * (10 - 5) + 5);
-    let timer2 = Math.floor(
-      Math.random() * (timer1 + 5 - (timer1 + 3)) + (timer1 + 3)
-    );
-    let timer3 = timer2 + 5;
-
-    setIdleTime(timer1);
-    setDippingTime(timer2);
-    setRunAwayTime(timer3);
-  }
-
-
-  // pull the hook and start mini game
-  const handlePull = () => {
-    pause();
-
-    if (seconds < idleTime) {
-      setImg("miss");
-      console.log("too early");
-      setResult("early");
-      setTimeout(() => {
-        setModalIsOpen(true);
-      }, 3000);
-    } else if (seconds <= dippingTime) {
-      setImg("dipping");
-      setMoving(!moving);
-      console.log("you got it");
-    } else {
-      setImg("miss");
-      console.log("too late");
-      setResult("late");
-      setTimeout(() => {
-        setModalIsOpen(true);
-      }, 3000);
-    }
-  };
-
-  // 
-  const handleCatch = () => {
-    setMoving(false);
-    if (mover >= 4) {
-      setImg("get");
-      setResult("get");
-      setTimeout(() => {
-        setModalIsOpen(true);
-      }, 5000);
-      console.log("good");
-    } else {
-      setImg("fail");
-      console.log("no good");
-      setResult("fail");
-      setTimeout(() => {
-        setModalIsOpen(true);
-      }, 8000);
-    }
-  };
-
-  // modal
-  let modal;
-  if (result == "early") {
-    modal = (
-      <div>
-        <h1>Too early!</h1>
-        <p>
-          You pull the hook too early,so you didn't get anything. Please be
-          patient.
-        </p>
-      </div>
-    );
-  } else if (result == "late") {
-    modal = (
-      <div>
-        <h2>To Late!</h2>
-        <p>The fish ran away</p>
-      </div>
-    );
-  } else if (result == "fail") {
-    modal = (
-      <div>
-        <h1>Nice Try!</h1>
-        <p>
-          The fish still got away. Focus on keeping the fish in the selected
-          area
-        </p>
-      </div>
-    );
-  } else if (result == "get") {
-    modal = (
-      <div>
-        <h1>Congratulation</h1>
-        <p>you get a new fish</p>
-        {/* <h1>{data[0]["Species Name"]}</h1> */}
-        {/* <img
-          src={
-            data[Math.floor(Math.random() * 19)]["Species Illustration Photo"]
-              .src
-          }
-          alt="fish"
-        /> */}
-      </div>
-    );
-  }
-
-  const modalOnClose = (modal) => {
-    setModalIsOpen({...modalIsOpen, [modal]:false});
-    setImg("idle");
-  };
-
   return (
     <div className="App">
-      <header>
+      <header className="bg-gradient-to-t from-sky-500">
         <nav>
-          <h1>Fishing</h1>
           <ul>
-            <li>Fish</li>
-            <li>FishDex</li>
+            <Link to="/">
+              <li className="nav-fish-page flex flex-col justify-center content-center hover:bg-sky-400 rounded-lg hover:border-4 border-orange-200"><div><i class="fa-solid fa-anchor"></i><br/><span>Fish</span></div></li>
+            </Link>
+            <Link to="/fishBook">
+              <li className="nav-fish-page flex flex-col justify-center content-center hover:bg-sky-400 rounded-lg hover:border-4 border-orange-200"><div><i class="fa-solid fa-fish-fins"></i><br/><span>FishBook</span></div></li>
+            </Link>
           </ul>
         </nav>
       </header>
       {/* <div
         dangerouslySetInnerHTML={{ __html: data[0]["Physical Description"] }}
       /> */}
-      {/* <button onClick={handleWait}>start</button>
-      <button onClick={handlePull}>pull</button>
-      <button onClick={handleCatch}>Catch</button> <br />
-      <MoverContainer
-        moverSpeed={moverSpeed}
-        moving={moving}
-        mover={mover}
-        setMover={setMover}
-      />
-      <img src={require(`./images/fish_${img}.gif`)} alt="an old man fishing" />
-      <MyStopwatch
-
-        seconds={seconds}
-        isRunning={isRunning}
-        start={start}
-        pause={pause}
-        reset={reset}
-        
-      />
-      <button onClick={() => setModalIsOpen({...modalIsOpen, resultPage: true})}>Open Modal</button>
-      <ReactModal isOpen={modalIsOpen.resultPage}>
-        <button onClick={() => modalOnClose("resultPage")}>Close</button>
-        {modal}
-      </ReactModal> */}
-      {/* <FishList fishData={fishData} modalIsOpen={modalIsOpen} setModalIsOpen={setModalIsOpen} modalOnClose={modalOnClose}/> */}
       <Routes>
-        <Route path="/"  element={<Fishing/>}/>
+        <Route path="/" element={<Fishing userFishList={userFishList} fishData={fishData} setCurrent={setCurrent} setUserFishList={setUserFishList}/>} />
+        <Route path="/fishBook" element={<FishList fishData={fishData} current={current} setCurrent={setCurrent} userFishList={userFishList}/>} />
       </Routes>
     </div>
   );

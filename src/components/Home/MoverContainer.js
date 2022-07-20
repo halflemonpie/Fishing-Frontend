@@ -5,7 +5,8 @@ export default function MoverContainer({
   mover,
   moving,
   moverSpeed,
-  setMover
+  setMover,
+  hidden
 }) {
   // number of container for the mover div
   const moverContainerNumber = 50;
@@ -28,11 +29,11 @@ export default function MoverContainer({
   }, [moving, mover]);
 
   let moverContainer = [];
-  for (let i = 0; i < moverContainerNumber; i++) {
+  for (let i = 1; i < moverContainerNumber; i++) {
     moverContainer.push(<Container moverSpeed={moverSpeed} mover={mover} i={i}/>);
   }
   return (
-    <div>
+    <div className="mover-div" hidden={hidden.mover}>
       <div className="background">{moverContainer}</div>
     </div>
   );

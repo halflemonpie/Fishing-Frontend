@@ -1,11 +1,7 @@
-/* body {
-  background: url("./images/fish_idle.gif");
-  background-repeat: no-repeat;
-} */
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@700&family=Roboto&display=swap');
 
-img {
-  width: 80%;
-  /* min-height: 100%; */
+* {
+  font-family: 'Roboto', sans-serif;
 }
 
 .background {
@@ -16,7 +12,7 @@ img {
 .mover-container {
   width: 40px;
   height: 5px;
-  background-color: #ddd;
+  background-color: aqua;
   position: relative;
   overflow: hidden;
 }
@@ -28,7 +24,7 @@ img {
   width: 40px;
   height: 5px;
   border-radius: 20px;
-  background-color: tomato;
+  text-align: center;
   /* transition: transform 0.5s linear; */
 }
 
@@ -46,3 +42,70 @@ img {
   outline: none;
   padding: 20px;
 }
+
+.App {
+  display: flex;
+  height: 100%;
+}
+
+.fish-book {
+  display: flex;
+  height: 100%;
+}
+
+.fish-list {
+  width: 50%;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.fish-detail {
+  width: 50%;
+  overflow-y: scroll;
+  height: 100vh;
+}
+
+.fishing {
+  width: 100vw;
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-end;
+}
+
+.nav-fish-page {
+  min-height: 10vh;
+  text-align: center;
+}
+
+header {
+  min-width: 5vw;
+}
+
+.button {
+  font-size: 5vw;
+  margin-left: 4vw;
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
+.mover-div {
+  align-self: center;
+}
+
+ul {
+  list-style: url("./images/fish-solid.svg");
+  list-style-position: inside;
+}
+
+.fish-detail li {
+  margin-left: 2rem;
+}
+
+h1 {
+  
+  font-family: 'Edu VIC WA NT Beginner', cursive;
+}
+
