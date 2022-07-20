@@ -26,6 +26,7 @@ export default function MoverContainer({
       }, moverSpeed);
       return () => clearInterval(interval);
     }
+  // eslint-disable-next-line
   }, [moving, mover]);
 
   let moverContainer = [];

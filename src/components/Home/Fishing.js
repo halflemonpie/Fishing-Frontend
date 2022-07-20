@@ -68,6 +68,7 @@ export default function Fishing({
     } else if (seconds >= runAwayTime && seconds !== 0) {
       reset();
     }
+  // eslint-disable-next-line
   }, [seconds]);
 
   // start/reset function
